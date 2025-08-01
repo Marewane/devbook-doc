@@ -35,3 +35,25 @@ Tu peux rendre ton code public pour le partager avec d’autres développeurs, o
 
 ✅ 5. Intégration avec des outils
 GitHub fonctionne bien avec des outils de déploiement, des tests automatiques et des services comme Netlify, Vercel, GitHub Actions, etc.
+
+
+
+
+
+✅ Les rôles dans une équipe projet
+Chef de projet : planifie, organise et coordonne le projet.
+
+Sponsor : soutient financièrement et valide les grandes décisions.
+
+Équipe technique : développe et réalise les livrables.
+
+Responsable qualité : contrôle la conformité et les tests.
+
+Clients / Utilisateurs : expriment les besoins et valident le résultat.
+
+Autres (Agile) :
+
+Scrum Master : facilite le travail d’équipe.
+
+Product Owner : définit les priorités du produit.
+=======

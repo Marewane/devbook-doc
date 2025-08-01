@@ -22,8 +22,7 @@ Voici quelques astuces utiles pour bien utiliser Git :
 
 3:Pourquoi GitHub est important
 ✅ 1. Gestion du code
-GitHub permet de sauvegarder, organiser et suivre l’évolution de ton code. C’est comme un historique automatique de ton travail. Si tu fais une erreur, tu peux revenir en arrière.
-
+ modify this line by memeber 1 Hello guys.
 ✅ 2. Travail d’équipe
 Avec GitHub, plusieurs personnes peuvent travailler sur le même projet en même temps sans se gêner. Chaque membre peut créer sa propre version, proposer des modifications, et les fusionner facilement.
 

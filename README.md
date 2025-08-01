@@ -1,5 +1,22 @@
+## Introduction
+
+DevBook-Doc est une plateforme visant à centraliser la documentation technique des projets logiciels 
+update introduction from
+## Objectifs
+
+- Documenter efficacement les projets.
+- Permettre une collaboration transparente.
+- Garder une trace claire des modifications.
 # devbook-doc
 
+## 💡 Astuces Git
+
+Voici quelques astuces utiles pour bien utiliser Git :
+
+- `git stash` : Permet de sauvegarder temporairement des changements non commités.
+- `git log --oneline --graph` : Visualise l’historique Git de manière compacte.
+- `git revert` : Annule un commit sans supprimer l’historique.
+- `git diff` : Affiche les différences entre les fichiers modifiés et l’index.
 
 
 
@@ -22,6 +39,7 @@ GitHub fonctionne bien avec des outils de déploiement, des tests automatiques e
 
 
 
+
 ✅ Les rôles dans une équipe projet
 Chef de projet : planifie, organise et coordonne le projet.
 
@@ -38,3 +56,4 @@ Autres (Agile) :
 Scrum Master : facilite le travail d’équipe.
 
 Product Owner : définit les priorités du produit.
+=======

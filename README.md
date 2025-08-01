@@ -1,7 +1,7 @@
 ## Introduction
 
-DevBook-Doc est une plateforme visant à centraliser la documentation technique des projets logiciels pour faciliter la collaboration entre les développeurs.
-
+DevBook-Doc est une plateforme visant à centraliser la documentation technique des projets logiciels 
+update introduction from
 ## Objectifs
 
 - Documenter efficacement les projets.

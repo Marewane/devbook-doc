@@ -28,3 +28,10 @@ Merci de vouloir contribuer à **DevBook** ! Voici quelques règles pour garanti
 
 - Utiliser des messages clairs et concis.
 - Format recommandé :
+
+
+✨ Étape 5 (Bonus)
+Créer une Issue GitHub pour chaque suggestion d’amélioration
+Ajouter un fichier CONTRIBUTING.md avec des règles simples
+Ajouter un fichier HISTORY.md ou notes.md comme journal collaboratif
+

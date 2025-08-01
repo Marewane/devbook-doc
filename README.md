@@ -1,3 +1,12 @@
+## Introduction
+
+DevBook-Doc est une plateforme visant à centraliser la documentation technique des projets logiciels pour faciliter la collaboration entre les développeurs.
+
+## Objectifs
+
+- Documenter efficacement les projets.
+- Permettre une collaboration transparente.
+- Garder une trace claire des modifications.
 # devbook-doc
 
 ## 💡 Astuces Git
@@ -8,7 +17,6 @@ Voici quelques astuces utiles pour bien utiliser Git :
 - `git log --oneline --graph` : Visualise l’historique Git de manière compacte.
 - `git revert` : Annule un commit sans supprimer l’historique.
 - `git diff` : Affiche les différences entre les fichiers modifiés et l’index.
-=======
 
 
 
